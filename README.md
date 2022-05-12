@@ -103,10 +103,8 @@ Python is the best language, period.
 
 [![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
-
 [![Instagram Badge](https://img.shields.io/badge/-insta-ff79c6?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ddjerqq/)](https://www.instagram.com/ddjerqq/)
 [![DevianArt Badge](https://img.shields.io/badge/-deviant%20art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
-
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
 [![Discord Badge](https://img.shields.io/badge/-discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
 
