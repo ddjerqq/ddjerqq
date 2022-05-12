@@ -1,15 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Merriweather:wght@300&display=swap');
-.center {
-    text-align: center;
-}
-
-p {
-  font-family: 'EB Garamond', serif;
-}
-</style>
-
-
 <h1 class="center"> Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p style="color: #bd93f9;">
@@ -30,7 +18,7 @@ In my free time I am always learning new technologies and helping others learn P
 ![Django](https://img.shields.io/badge/-Django-bd93f9?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-bd93f9?style=flat&logo=flask)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-bd93f9?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-bd93f9?style=flat&logo=Kotlin&logoColor=FFA518)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-bd93f9?style=flat&logo=kotlin)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-bd93f9?style=flat&logo=docker)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-bd93f9?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript)&nbsp;
@@ -41,10 +29,24 @@ In my free time I am always learning new technologies and helping others learn P
 ![Angular](https://img.shields.io/badge/-Angular-bd93f9?style=flat&logo=angular)&nbsp;
 ![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
 ![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
+![Unity](https://img.shields.io/badge/-Unity-bd93f9?style=flat&logo=unity)&nbsp;
+![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-bd93f9?style=flat&logo=unrealengine)&nbsp;
+![Go](https://img.shields.io/badge/-Go-bd93f9?style=flat&logo=go)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-bd93f9?style=flat&logo=swift)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-bd93f9?style=flat&logo=xamarin)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-bd93f9?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-bd93f9?style=flat&logo=dart)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-bd93f9?style=flat&logo=fastapi)&nbsp;
+![Cpython](https://img.shields.io/badge/-Cpython-bd93f9?style=flat&logo=cpython)&nbsp;
+![Haskell](https://img.shields.io/badge/-Haskell-bd93f9?style=flat&logo=haskell)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript)&nbsp;
+![Blender](https://img.shields.io/badge/-Blender-bd93f9?style=flat&logo=blender)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-bd93f9?style=flat&logo=adobe)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-bd93f9?style=flat&logo=adobe)&nbsp;
 
 <br>
 
-<h1 align="center">🔨 My projects:</h1>
+<h1 align="center">🔨 My repos:</h1>
 
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
@@ -90,7 +92,7 @@ In my free time I am always learning new technologies and helping others learn P
 <h1 align="center"> 📫 Reach me: </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:gio2004n@gmail.com)](mailto:gio2004n@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-insta-ff79c6?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ddjerqq/)](https://www.instagram.com/ddjerqq/)
 [![DevianArt Badge](https://img.shields.io/badge/-deviant_art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
