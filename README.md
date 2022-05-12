@@ -1,16 +1,26 @@
-# hey there! I'm Gio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Merriweather:wght@300&display=swap');
+.center {
+    text-align: center;
+}
 
-<h3>I am obsessed with the dracula theme.</h3>
-<code>
-I am 18 years old, and I am a software engineer in [Liberty Bank](https://libertybank.ge/ka/) Georgia.
-</code>
+p {
+  font-family: 'EB Garamond', serif;
+}
+</style>
+
+
+<h1 class="center"> Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+<p style="color: #bd93f9;">
+I am obsessed with the dracula theme. <br>
+I am 18 years old, and I am a software engineer in <a style="color: #ff79c6;" href="https://libertybank.ge/en/"><u>Liberty Bank</u></a> Georgia. <br> 
+Python is the best language ever, period. <br>
+In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server
+</p>
 <br>
-<code>
-Python is the best language, period. 
-</code>
 
-
-### 💡 Skills:
+<h2 align="center">💡 Skills:</h2>
 
 ![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
 ![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
@@ -32,29 +42,29 @@ Python is the best language, period.
 ![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
 ![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
 
+<br>
 
-### 🔨 My projects:
+<h1 align="center">🔨 My projects:</h1>
 
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
-        width="282" 
+        width="33%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rgbprint&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
-        width="282" 
+        width="33%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=asmrdb&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
-        width="282" 
+        width="33%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=ecommerce_csharp&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <p>
     <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md">
     <img alt="All Repositories" 
@@ -62,15 +72,34 @@ Python is the best language, period.
          src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-### ⚙️ GitHub Analytics
+<br>
+
+<h1 align="center">⚙️ GitHub Analytics</h1>
+
+<div align="center">
 
 ![ddjerqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjerqq&theme=dracula&show_icons=true&hide_border=true)
+
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
+</div>
 
 ![ddjerqq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ddjerqq&theme=dracula&hide_border=true)
 
-### 🦜 Here are some [parrots](https://cultofthepartyparrot.com)
+<h1 align="center"> 📫 Reach me: </h1>
+
+[![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-insta-ff79c6?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ddjerqq/)](https://www.instagram.com/ddjerqq/)
+[![DevianArt Badge](https://img.shields.io/badge/-deviant_art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
+[![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
+[![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
+[![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
+
+<h1 align="center">🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
 
 <div>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -94,19 +123,7 @@ Python is the best language, period.
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
+    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
-
-
-### 📫 Reach me:
-
-[![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-insta-ff79c6?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ddjerqq/)](https://www.instagram.com/ddjerqq/)
-[![DevianArt Badge](https://img.shields.io/badge/-deviant%20art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
-[![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
-[![Discord Badge](https://img.shields.io/badge/-discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
-<h5>Made With ❤️ddjerqq</h5>
