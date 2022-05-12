@@ -50,19 +50,16 @@ In my free time I am always learning new technologies and helping others learn P
 
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
-        width="33%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rgbprint&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <a href="https://github.com/ddjerqq/rgbprint-stats">
-    <img 
-        width="33%" 
+    <img  
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=asmrdb&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <a href="https://github.com/ddjerqq/rgbprint-stats">
     <img 
-        width="33%" 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=ecommerce_csharp&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
