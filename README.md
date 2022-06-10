@@ -71,13 +71,7 @@ In my free time I am always learning new technologies and helping others learn P
         alt="github-readme-stats">
 </a>
 <br>
-<p>
-    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md">
-    <img alt="All Repositories" 
-         title="All Repositories" 
-         src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/>
-    </a>
-</p>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br>
