@@ -83,9 +83,11 @@ In my free time I am always learning new technologies and helping others learn P
 ![ddjerqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjerqq&theme=dracula&show_icons=true&hide_border=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
-</div>
 
 ![ddjerqq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ddjerqq&theme=dracula&hide_border=true)
+
+</div>
+
 
 <h1> 📫 Reach me: </h1>
 
@@ -96,7 +98,6 @@ In my free time I am always learning new technologies and helping others learn P
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
 [![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
 [![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
