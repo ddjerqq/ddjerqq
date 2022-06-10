@@ -3,12 +3,12 @@
 <p style="color: #bd93f9;">
 I am obsessed with the dracula theme. <br>
 I am 18 years old, and I am a software engineer in <a style="color: #ff79c6;" href="https://libertybank.ge/en/"><u>Liberty Bank</u></a> Georgia. <br> 
-Python is the best language ever, period. <br>
+Rust and Python are the best languages ever, period. <br>
 In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server
 </p>
 <br>
 
-<h2 align="center">💡 Skills:</h2>
+<h1>💡 Skills:</h1>
 
 ![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
 ![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
@@ -43,24 +43,31 @@ In my free time I am always learning new technologies and helping others learn P
 ![Blender](https://img.shields.io/badge/-Blender-bd93f9?style=flat&logo=blender)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-bd93f9?style=flat&logo=adobe)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-bd93f9?style=flat&logo=adobe)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-bd93f9?style=flat&logo=inkscape)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-bd93f9?style=flat&logo=gimp)&nbsp;
 
 <br>
 
-<h1 align="center">🔨 My repos:</h1>
+<h1>🔨 My repos:</h1>
 
-<a href="https://github.com/ddjerqq/rgbprint-stats">
+<a href="https://github.com/ddjerqq/rgbprint">
     <img 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rgbprint&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
-<a href="https://github.com/ddjerqq/rgbprint-stats">
+<a href="https://github.com/ddjerqq/asmrdb">
     <img  
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=asmrdb&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
-<a href="https://github.com/ddjerqq/rgbprint-stats">
+<a href="https://github.com/ddjerqq/ecommerce_csharp">
     <img 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=ecommerce_csharp&theme=dracula&hide_border=true" 
+        alt="github-readme-stats">
+</a>
+<a href="https://github.com/ddjerqq/rust_msr_db">
+    <img 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rust_msr_db&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <br>
@@ -75,9 +82,9 @@ In my free time I am always learning new technologies and helping others learn P
 
 <br>
 
-<h1 align="center">⚙️ GitHub Analytics</h1>
+<h1>⚙️ GitHub Analytics</h1>
 
-<div align="center">
+<div>
 
 ![ddjerqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjerqq&theme=dracula&show_icons=true&hide_border=true)
 
@@ -86,7 +93,7 @@ In my free time I am always learning new technologies and helping others learn P
 
 ![ddjerqq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ddjerqq&theme=dracula&hide_border=true)
 
-<h1 align="center"> 📫 Reach me: </h1>
+<h1> 📫 Reach me: </h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:gio2004n@gmail.com)](mailto:gio2004n@gmail.com)
@@ -98,7 +105,7 @@ In my free time I am always learning new technologies and helping others learn P
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
 
-<h1 align="center">🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
+<h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
 
 <div>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
