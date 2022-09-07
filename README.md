@@ -1,10 +1,10 @@
 <h1 class="center"> Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p style="color: #bd93f9;">
-I am obsessed with the dracula theme. <br>
-I am 18 years old, and I am a software engineer in <a style="color: #ff79c6;" href="https://libertybank.ge/en/"><u>Liberty Bank</u></a> Georgia. <br> 
+I am 18 years old, and I am a passionate software engineer, who loves making low level critical systems programs in the Rust programming language.<br> 
 Rust and Python are the best languages ever, period. <br>
-In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server
+In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server.
+I am also contributing to some open source projects, and maintaining my python library: <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rgbprint">rgbprint</a>
 </p>
 <br>
 
@@ -48,16 +48,11 @@ In my free time I am always learning new technologies and helping others learn P
 
 <br>
 
-<h1>🔨 My repos:</h1>
+<h1>🔨 My fav repos:</h1>
 
 <a href="https://github.com/ddjerqq/rgbprint">
     <img 
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rgbprint&theme=dracula&hide_border=true" 
-        alt="github-readme-stats">
-</a>
-<a href="https://github.com/ddjerqq/asmrdb">
-    <img  
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=asmrdb&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
 <a href="https://github.com/ddjerqq/ecommerce_csharp">
@@ -65,12 +60,6 @@ In my free time I am always learning new technologies and helping others learn P
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=ecommerce_csharp&theme=dracula&hide_border=true" 
         alt="github-readme-stats">
 </a>
-<a href="https://github.com/ddjerqq/rust_msr_db">
-    <img 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rust_msr_db&theme=dracula&hide_border=true" 
-        alt="github-readme-stats">
-</a>
-<br>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -98,6 +87,7 @@ In my free time I am always learning new technologies and helping others learn P
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
 [![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
 [![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-nachkebia-b4538b204/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
