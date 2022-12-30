@@ -86,8 +86,7 @@ I am also contributing to some open source projects, and maintaining my python l
 [![DevianArt Badge](https://img.shields.io/badge/-deviant_art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
 [![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
 [![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
-[![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-nachkebia-b4538b204/)
+[![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)\
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
