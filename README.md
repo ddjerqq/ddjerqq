@@ -1,10 +1,9 @@
 <h1 class="center"> Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p style="color: #bd93f9;">
-I am 18 years old, and I am a passionate software engineer, who loves making low level critical systems programs in the Rust programming language.<br> 
-Rust and Python are the best languages ever, period. <br>
+I am 18 years old, currently de-oxidizing Rust code to Python :D<br>
 In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server.
-I am also contributing to some open source projects, and maintaining my python library: <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rgbprint">rgbprint</a>
+I am also contributing to some open source projects, and maintaining these python libraries <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
 <br>
 
@@ -16,6 +15,7 @@ I am also contributing to some open source projects, and maintaining my python l
 ![C++](https://img.shields.io/badge/-C++-bd93f9?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-bd93f9?style=flat&logo=rust)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-bd93f9?style=flat&logo=django&logoColor=092E20)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-bd93f9?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-bd93f9?style=flat&logo=flask)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-bd93f9?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-bd93f9?style=flat&logo=kotlin)&nbsp;
@@ -36,7 +36,6 @@ I am also contributing to some open source projects, and maintaining my python l
 ![Xamarin](https://img.shields.io/badge/-Xamarin-bd93f9?style=flat&logo=xamarin)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-bd93f9?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-bd93f9?style=flat&logo=dart)&nbsp;
-![FastApi](https://img.shields.io/badge/-FastApi-bd93f9?style=flat&logo=fastapi)&nbsp;
 ![Cpython](https://img.shields.io/badge/-Cpython-bd93f9?style=flat&logo=cpython)&nbsp;
 ![Haskell](https://img.shields.io/badge/-Haskell-bd93f9?style=flat&logo=haskell)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript)&nbsp;
