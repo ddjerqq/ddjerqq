@@ -1,9 +1,10 @@
-<h1 class="center"> Hey there! I'm Gio <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 class="center">Hey there!<img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <p style="color: #bd93f9;">
-I am 18 years old, currently de-oxidizing Rust code to Python :D<br>
-In my free time I am always learning new technologies and helping others learn Python in <a style="color: #ff79c6;" href="https://discord.gg/8tzkdXAx95"><u>My discord server</u></a> and the official Python discord server.
-I am also contributing to some open source projects, and maintaining these python libraries <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a style="color: #ff79c6;" href="https://github.com/ddjerqq/rustkit">rustkit</a>
+I'm @ddjerqq. A True '10x developer'. ENTJ personality type, Natural born leader.<br>
+Currently learning CUDA to become a programmer GOD.<br>
+I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
+In my free time I'm contributing to some open source projects, and maintaining these python libraries <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
 <br>
 
@@ -47,28 +48,9 @@ I am also contributing to some open source projects, and maintaining these pytho
 
 <br>
 
-<h1>🔨 My fav repos:</h1>
-
-<a href="https://github.com/ddjerqq/rgbprint">
-    <img 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rgbprint&theme=dracula&hide_border=true" 
-        alt="github-readme-stats">
-</a>
-<a href="https://github.com/ddjerqq/rustkit">
-    <img 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ddjerqq&repo=rustkit&theme=dracula&hide_border=true" 
-        alt="github-readme-stats">
-</a>
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br>
-
 <h1>⚙️ GitHub Analytics</h1>
 
 <div>
-
-![ddjerqq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddjerqq&theme=dracula&show_icons=true&hide_border=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
 
@@ -76,24 +58,10 @@ I am also contributing to some open source projects, and maintaining these pytho
 
 </div>
 
-
-<h1> 📫 Reach me: </h1>
-
-[![Gmail Badge](https://img.shields.io/badge/-official-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:ddjerqq@gmail.com)](mailto:ddjerqq@gmail.com)
-[![Gmail Badge](https://img.shields.io/badge/-personal-bd93f9?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:gio2004n@gmail.com)](mailto:gio2004n@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-insta-ff79c6?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ddjerqq/)](https://www.instagram.com/ddjerqq/)
-[![DevianArt Badge](https://img.shields.io/badge/-deviant_art-ff79c6?style=flat-roundedrectangle&logo=DeviantArt&logoColor=white&link=https://www.deviantart.com/ddjerqq)](https://www.deviantart.com/gnarlyshyper)
-[![Telegram Badge](https://img.shields.io/badge/telegram-bd93f9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ddjerqq)
-[![Discord Badge](https://img.shields.io/badge/-add_me_on_discord-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/725773984808960050)
-[![LearnPy Badge](https://img.shields.io/badge/-join_my_discord_server-bd93f9?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/8tzkdXAx95)\
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ddjerqq&style=flat-square&logo=visitors&textColor=bd93f9)
-
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
 
 <div>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
