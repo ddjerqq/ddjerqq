@@ -54,8 +54,6 @@ In my free time I'm contributing to some open source projects, and maintaining t
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
 
-![ddjerqq's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ddjerqq&theme=dracula&hide_border=true)
-
 </div>
 
 <h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
