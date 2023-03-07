@@ -14,40 +14,41 @@ In my free time I'm contributing to some open source projects, and maintaining t
 
 <h1>💡 Skills:</h1>
 
-![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
 ![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
+![Blazor](https://img.shields.io/badge/-Blazor-bd93f9?style=flat&logo=blazor)&nbsp;
+![ASPNET](https://img.shields.io/badge/-asp.net-bd93f9?style=flat&logo=asp.net)&nbsp;
+
+![Go](https://img.shields.io/badge/-Go-bd93f9?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-bd93f9?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-bd93f9?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![CUDA](https://img.shields.io/badge/-cuda-bd93f9?style=flat&logo=cuda&logoColor=00599C)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-bd93f9?style=flat&logo=rust)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-bd93f9?style=flat&logo=docker)&nbsp;
+
+![Python](https://img.shields.io/badge/-Python-bd93f9?style=flat&logo=python)&nbsp;
+
 ![Django](https://img.shields.io/badge/-Django-bd93f9?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-bd93f9?style=flat&logo=fastapi)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-bd93f9?style=flat&logo=flask)&nbsp;
+![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
+![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-bd93f9?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-bd93f9?style=flat&logo=kotlin)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-bd93f9?style=flat&logo=docker)&nbsp;
+
 ![Node.js](https://img.shields.io/badge/-Node.js-bd93f9?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-bd93f9?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-bd93f9?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-bd93f9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-bd93f9?style=flat&logo=react)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-bd93f9?style=flat&logo=vue.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-bd93f9?style=flat&logo=angular)&nbsp;
-![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
-![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
+
 ![Unity](https://img.shields.io/badge/-Unity-bd93f9?style=flat&logo=unity)&nbsp;
 ![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-bd93f9?style=flat&logo=unrealengine)&nbsp;
-![Go](https://img.shields.io/badge/-Go-bd93f9?style=flat&logo=go)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-bd93f9?style=flat&logo=swift)&nbsp;
-![Xamarin](https://img.shields.io/badge/-Xamarin-bd93f9?style=flat&logo=xamarin)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-bd93f9?style=flat&logo=flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-bd93f9?style=flat&logo=dart)&nbsp;
-![Cpython](https://img.shields.io/badge/-Cpython-bd93f9?style=flat&logo=cpython)&nbsp;
-![Haskell](https://img.shields.io/badge/-Haskell-bd93f9?style=flat&logo=haskell)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-bd93f9?style=flat&logo=typescript)&nbsp;
+
 ![Blender](https://img.shields.io/badge/-Blender-bd93f9?style=flat&logo=blender)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-bd93f9?style=flat&logo=adobe)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-bd93f9?style=flat&logo=adobe)&nbsp;
-![Inkscape](https://img.shields.io/badge/-Inkscape-bd93f9?style=flat&logo=inkscape)&nbsp;
 ![Gimp](https://img.shields.io/badge/-Gimp-bd93f9?style=flat&logo=gimp)&nbsp;
 
 <br>
