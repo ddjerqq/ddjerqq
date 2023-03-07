@@ -1,8 +1,12 @@
-<h1 class="center">Hey there!<img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 class="center">
+    Hey there!
+    <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+    My name is Gio. V19.3
+</h1>
 
 <p style="color: #bd93f9;">
-I'm @ddjerqq. A True '10x developer'. ENTJ personality type, Natural born leader.<br>
-Currently learning CUDA to become a programmer GOD.<br>
+I am A True '10x developer'. ENTJ personality type, Natural born leader.<br>
+Currently learning CUDA and massive parallelism ideas, to become a programmer GOD.<br>
 I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
 In my free time I'm contributing to some open source projects, and maintaining these python libraries <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
