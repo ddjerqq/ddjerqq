@@ -20,12 +20,12 @@ In my free time I'm contributing to some open source projects, and maintaining t
 
 ![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-bd93f9?style=flat&logo=blazor)&nbsp;
-![ASPNET](https://img.shields.io/badge/-asp.net-bd93f9?style=flat&logo=asp.net)&nbsp;
+![ASPNET](https://img.shields.io/badge/-.net-bd93f9?style=flat&logo=.net)&nbsp;
 
 ![Go](https://img.shields.io/badge/-Go-bd93f9?style=flat&logo=go)&nbsp;
 ![C](https://img.shields.io/badge/-C-bd93f9?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-bd93f9?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![CUDA](https://img.shields.io/badge/-cuda-bd93f9?style=flat&logo=cuda&logoColor=00599C)&nbsp;
+![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-bd93f9?style=flat&logo=rust)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-bd93f9?style=flat&logo=docker)&nbsp;
 
@@ -37,7 +37,7 @@ In my free time I'm contributing to some open source projects, and maintaining t
 ![pandas](https://img.shields.io/badge/-pandas-bd93f9?style=flat&logo=pandas)&nbsp;
 ![numpy](https://img.shields.io/badge/-numpy-bd93f9?style=flat&logo=numpy)&nbsp;
 
-![Java](https://img.shields.io/badge/-Java-bd93f9?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Java](https://img.shields.io/badge/java-bd93f9?style=flat&logo=java&logoColor=FFA518)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-bd93f9?style=flat&logo=kotlin)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-bd93f9?style=flat&logo=node.js)&nbsp;
@@ -63,7 +63,7 @@ In my free time I'm contributing to some open source projects, and maintaining t
 
 <div>
 
-- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-CUDA-bd93f9?style=flat&logo=cuda&logoColor=00599C)&nbsp;
+- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C)
 
 ![](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
