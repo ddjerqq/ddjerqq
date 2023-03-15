@@ -4,6 +4,10 @@
     My name is Gio. V19.3
 </h1>
 
+[![Github](https://img.shields.io/github/followers/ddjerqq?label=Follow&style=social)](https://github.com/ddjerqq)
+
+<h3>Check out my interactive porfolio <a href="https://ddjerqq.github.io" target="_blank">here</a></h3>
+
 <p style="color: #bd93f9;">
 I am A True '10x developer'. ENTJ personality type, Natural born leader.<br>
 Currently learning CUDA and massive parallelism ideas, to become a programmer GOD.<br>
@@ -59,7 +63,15 @@ In my free time I'm contributing to some open source projects, and maintaining t
 
 <div>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
+- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-CUDA-bd93f9?style=flat&logo=cuda&logoColor=00599C)&nbsp;
+
+![](http://github-readme-streak-stats.herokuapp.com?user=ddjerqq&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FFFFFF)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddjerqq&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula)
+
 
 </div>
 
