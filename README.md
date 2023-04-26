@@ -1,7 +1,7 @@
 <h1 class="center">
     Hey there!
     <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    My name is Gio. V19.3
+    My name is Gio
 </h1>
 
 [![Github](https://img.shields.io/github/followers/ddjerqq?label=Follow&style=social)](https://github.com/ddjerqq)
