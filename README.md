@@ -9,8 +9,9 @@
 <h3>Check out my interactive porfolio <a href="https://ddjerqq.github.io" target="_blank">here</a></h3>
 
 <p style="color: #bd93f9;">
-I am A True '10x developer'. ENTJ personality type, Natural born leader.<br>
-Currently learning CUDA and massive parallelism ideas, to become a programmer GOD.<br>
+I am a true '10x developer'. ENTJ personality type, natural born leader.<br>
+Currently learning CUDA, Blazor, ASP.NET, Rust for personal projects.<br>
+I am mainly working on freelance, mostly for web based projects, but some projects I've done include: discord bots, crawler bots, automation tools, data science projects, AI projects.<br>
 I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
 In my free time I'm contributing to some open source projects, and maintaining these python libraries <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
