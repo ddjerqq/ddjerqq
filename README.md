@@ -6,9 +6,9 @@
 
 [![Github](https://img.shields.io/github/followers/ddjerqq?label=Follow&style=social)](https://github.com/ddjerqq)
 
-<h3>Check out my interactive porfolio by clicking the image below ⬇️</h3>
+### Check out my interactive porfolio by clicking 👉 *[here](https://ddjerqq.github.io)* 👈
 
-[![Portfolio](https://github.com/ddjerqq/ddjerqq/assets/57017344/d6b904be-719d-46e8-b061-7234619a8926)](https://ddjerqq.github.io)
+![Portfolio](https://github.com/ddjerqq/ddjerqq/assets/57017344/d6b904be-719d-46e8-b061-7234619a8926)
 
 <p style="color: #bd93f9;">
 I am a true '10x developer'. ENTJ personality type, natural born leader.<br>
