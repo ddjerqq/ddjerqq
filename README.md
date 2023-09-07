@@ -1,8 +1,4 @@
-<h1 class="center">
-    Hey there!
-    <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-    My name is Gio
-</h1>
+# Hey there! <img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My name is Gio
 
 [![Github](https://img.shields.io/github/followers/ddjerqq?label=Follow&style=social)](https://github.com/ddjerqq)
 
@@ -17,9 +13,12 @@ I am mainly working on freelance, mostly for web based projects, but some projec
 I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
 In my free time I'm contributing to some open source projects, and maintaining these python libraries <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
-<br>
 
-<h1>💡 Skills:</h1>
+- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C) CUDA
+
+----
+
+# 💡 Skills:
 
 ![Csharp](https://img.shields.io/badge/-C%23-bd93f9?style=flat&logo=csharp)&nbsp;
 ![Blazor](https://img.shields.io/badge/-Blazor-bd93f9?style=flat&logo=blazor)&nbsp;
@@ -45,13 +44,11 @@ In my free time I'm contributing to some open source projects, and maintaining t
 ![HTML](https://img.shields.io/badge/-HTML-bd93f9?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-bd93f9?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-<br>
+### and a lot more :D
 
-<h1>⚙️ GitHub Analytics</h1>
+----
 
-<div>
-
-- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C) CUDA
+# ⚙️ GitHub Analytics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula)
@@ -60,31 +57,24 @@ In my free time I'm contributing to some open source projects, and maintaining t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula)
 
 
-</div>
-
-<h1>🦜 Here are some <a href="https://cultofthepartyparrot.com">parrots</a></h1>
+# 😻 Here are some cats :3
 
 <div>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img alt="parrot" src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7601-pixel-toro-spin.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4438-snackingcat.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6844-pixel-toro-heartdance.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7525-pixel-cat-tantrum.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3216-pixel-toro-fright.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/1311-pixel-cat-makeupkiss.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6189-pixel-toro-livid.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3420-pixel-cat-stare.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4837-pixel-cat-aha.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/7024-pixel-cat-hottea.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4202-pixel-cat-adoration.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/3111-pixel-toro-sleepy.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/9793-pixel-toro-loveletter.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/4673-pixel-toro-confused.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6682-pixel-toro-cellphone.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/9302-pixel-toro-kissblow.gif" width="30" height="30"/>
+    <img alt="cat" src="https://cdn3.emoji.gg/emojis/6834-pixel-toro-blanket.gif" width="30" height="30"/>
 </div>
