@@ -4,17 +4,16 @@
 
 ### Check out my interactive porfolio by clicking 👉 *[here](https://ddjerqq.github.io)* 👈
 
-![Portfolio](https://github.com/ddjerqq/ddjerqq/assets/57017344/d6b904be-719d-46e8-b061-7234619a8926)
-
 <p style="color: #bd93f9;">
 I am a true '10x developer'. ENTJ personality type, natural born leader.<br>
-Currently learning CUDA, Blazor, ASP.NET, Rust for personal projects.<br>
-I am mainly working on freelance, mostly for web based projects, but some projects I've done include: discord bots, crawler bots, automation tools, data science projects, AI projects.<br>
+Currently working at [Hinkal.pro](https://hinkal.pro) as full stack react / node developer. 
+I use ASP.NET Blazor, Rust, Python and many other langauges / frameworks for my personal projects.<br>
 I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
-In my free time I'm contributing to some open source projects, and maintaining these python libraries <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
+In my free time I'm contributing to some open source projects, and maintaining these libraries <a href="https://github.com/ddjerqq/QuickForm">Blazor QuickForm</a>, <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
 </p>
 
-- 🔭 I’m currently learning ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C) CUDA
+- 🔭 I love ![CUDA](https://img.shields.io/badge/-nVIDIA-bd93f9?style=flat&logo=nVIDIA&logoColor=00599C) CUDA and ridiculous performance code.
+- in my free time, I am also working on [Crypton](https://github.com/ddjerqq/Crypton)
 
 ----
 
