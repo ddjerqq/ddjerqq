@@ -5,8 +5,8 @@
 ### Check out my interactive porfolio by clicking 👉 *[here](https://ddjerqq.github.io)* 👈
 
 <p style="color: #bd93f9;">
-I am a true '10x developer'. ENTJ personality type, natural born leader.<br>
-Currently working at [Hinkal.pro](https://hinkal.pro) as full stack react / node developer. 
+I am a true '10x developer'. ENTJ personality, natural born leader.<br>
+Currently working on my personal projects. 
 I use ASP.NET Blazor, Rust, Python and many other langauges / frameworks for my personal projects.<br>
 I want to learn as many technologies as I can and create something which will change the world to be a better place one-step at a time<br>
 In my free time I'm contributing to some open source projects, and maintaining these libraries <a href="https://github.com/ddjerqq/QuickForm">Blazor QuickForm</a>, <a href="https://github.com/ddjerqq/rgbprint">rgbprint</a> and <a href="https://github.com/ddjerqq/rustkit">rustkit</a>
