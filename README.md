@@ -17,6 +17,8 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddjerqq/ddjerqq/986ba9bd939bd74c827359a6108769d441d1b604/github-contribution-grid-snake.svg">
 </picture>
 
+![](https://komarev.com/ghpvc/?username=ddjerqq)
+
 ----
 
 # 💡 My skills:
