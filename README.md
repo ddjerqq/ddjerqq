@@ -43,6 +43,6 @@
 # 📞 Contact
 You can contact me on
 - [telegram](https://t.me/tenxdeveloper)
-- [email](mailto://ddjerqq@gmail.com)
+- [email](mailto:g@nachkebia.dev)
 - discord: @tenxdeveloper
 
