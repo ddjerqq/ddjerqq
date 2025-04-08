@@ -34,15 +34,20 @@
 
 # ⚙️ GitHub Analytics
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddjerqq&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula)
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ddjerqq&theme=dracula" />
+</div>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ddjerqq&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ddjerqq&theme=dracula" />
+</div>
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ddjerqq&theme=dracula" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ddjerqq&theme=dracula" />
+</div>
 
 # 📞 Contact
 You can contact me on
 - [telegram](https://t.me/tenxdeveloper)
 - [email](mailto:g@nachkebia.dev)
-- discord: @tenxdeveloper
 
