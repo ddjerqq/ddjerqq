@@ -6,7 +6,6 @@
 <p style="color: #bd93f9;">
     I am a true '10x developer'. ENTJ - born a leader.<br>
     I use ASP.NET Blazor, Rust, Python and many other langauges / frameworks for my personal projects and OSS<br>
-    I want to learn as many technologies as I can and create something which will change the world to be a better place<br>
 </p>
 
 <picture>
